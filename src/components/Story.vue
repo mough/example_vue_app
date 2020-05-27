@@ -1,17 +1,17 @@
 <template>
   <div>
       <div class="py-4 text-center">
-        <h3 id="story1">The {{ this.registration.noun }}
+        <h3 id="story1">A single {{ this.registration.noun }}
            is the key to not {{ this.registration.gerund }}
-            your own {{ this.registration.noun2 }}.</h3>
+            your own {{ this.registration.nouns }}.</h3>
 
         <h3 id="story2">Always bring a {{ this.registration.noun }}
            while {{ this.registration.gerund }}
-            near a {{ this.registration.noun2 }}.</h3>
+            near {{ this.registration.nouns }}.</h3>
 
         <h3 id="story3"> {{ this.registration.noun }}
            is the root of all evil, but {{ this.registration.gerund }}
-            is nearly as good as {{ this.registration.noun2 }}.</h3>
+            is nearly as good as {{ this.registration.nouns }}.</h3>
       </div>
   </div>
 </template>

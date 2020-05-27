@@ -80,7 +80,7 @@ export default {
             }
             break;
           case 2:
-            if (this.registration.noun2 !== '') {
+            if (this.registration.nouns !== '') {
               resolve({
                 goodToGo: true,
               });
