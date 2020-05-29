@@ -17,12 +17,12 @@
       </label>
 
       <label for="nounsOption2" class="btn btn-info">
-        C2C-13: Replace this text with a plural noun (person, place or thing).
+        C2C-13: Desks.
         <input
           type="radio"
           id="nounsOption2"
           name="nounsOption2"
-          value="C2C-13: Replace this text with the plural noun you put in the label."
+          value="C2C-13: Desks."
           v-model="registration.nouns"
         />
       </label>
