@@ -21,7 +21,7 @@
           type="radio"
           id="nounOption2"
           name="nounOption2"
-          value="C2C-03: Replace this text with the singular noun you put in the label."
+          value="monkey"
           v-model="registration.noun"
         />
       </label>
