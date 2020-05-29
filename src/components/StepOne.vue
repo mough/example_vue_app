@@ -11,7 +11,7 @@
           type="radio"
           id="nounOption1"
           name="nounOption1"
-          value="C2C-02: Jay"
+          value="Jay"
           v-model="registration.noun"
         />
       </label>
