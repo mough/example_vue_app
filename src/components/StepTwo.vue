@@ -2,7 +2,7 @@
   <div>
     <form id="gerundPref">
       <div class="py-4 text-center">
-        <h3>C2C-06: Replace this text with a question.</h3>
+        <h3>What really is a yoyo?</h3>
       </div>
 
       <label for="gerundOption1" class="btn btn-info mr-1">
