@@ -1,0 +1,10 @@
+<label for="nounsOption4" class="btn btn-info">
+        C2C-15: Whales
+        <input
+          type="radio"
+          id="nounsOption4"
+          name="nounsOption4"yes
+          value="C2C-15: Whales"
+          v-model="registration.nouns"
+        />
+</label>
