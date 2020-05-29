@@ -21,7 +21,7 @@
           type="radio"
           id="nounOption2"
           name="nounOption2"
-          value="monkey"
+          value="ants"
           v-model="registration.noun"
         />
       </label>
