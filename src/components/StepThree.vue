@@ -28,12 +28,12 @@
       </label>
 
       <label for="nounsOption3" class="btn btn-info mr-1">
-        C2C-14: Replace this text with a plural noun (person, place or thing).
+        Hashtags
         <input
           type="radio"
           id="nounsOption3"
           name="nounsOption3"
-          value="C2C-14: Replace this text with the plural noun you put in the label."
+          value="Hashtags"
           v-model="registration.nouns"
         />
       </label>
