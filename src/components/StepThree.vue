@@ -11,7 +11,7 @@
           type="radio"
           id="nounsOption1"
           name="nounsOption1"
-          value="C2C-12: Replace this text with the plural noun you put in the label."
+          value="Potatoes"
           v-model="registration.nouns"
         />
       </label>
