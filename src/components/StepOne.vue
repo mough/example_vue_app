@@ -6,7 +6,7 @@
       </div>
 
       <label for="nounOption1" class="btn btn-info mr-1">
-        C2C-02: Jay.
+        Jay.
         <input
           type="radio"
           id="nounOption1"
