@@ -6,12 +6,12 @@
       </div>
 
       <label for="nounOption1" class="btn btn-info mr-1">
-        C2C-02: Replace this text with a singular noun (person, place or thing).
+        Jay.
         <input
           type="radio"
           id="nounOption1"
           name="nounOption1"
-          value="C2C-02: Replace this text with the singular noun you put in the label."
+          value="Jay"
           v-model="registration.noun"
         />
       </label>
