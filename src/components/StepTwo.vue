@@ -6,12 +6,12 @@
       </div>
 
       <label for="gerundOption1" class="btn btn-info mr-1">
-        C2C-07: Replace this text with a gerund (any verb + 'ing').
+        eating
         <input
           type="radio"
           id="gerundOption1"
           name="gerundOption1"
-          value="C2C-07: Replace this text with the gerund you put in the label."
+          value="eating"
           v-model="registration.gerund"
         />
       </label>
