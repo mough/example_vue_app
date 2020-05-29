@@ -6,7 +6,7 @@
       </div>
 
       <label for="gerundOption1" class="btn btn-info mr-1">
-        C2C-07: eating.
+        eating
         <input
           type="radio"
           id="gerundOption1"
