@@ -6,7 +6,7 @@
       </div>
 
       <label for="nounsOption1" class="btn btn-info mr-1">
-        C2C-12: Replace this text with a plural noun (person, place or thing).
+        Potatoes
         <input
           type="radio"
           id="nounsOption1"
