@@ -28,12 +28,12 @@
       </label>
 
       <label for="gerundOption3" class="btn btn-info mr-1">
-        C2C-09: Replace this text with a gerund (any verb + 'ing').
+        Fishing
         <input
           type="radio"
           id="gerundOption3"
           name="gerundOption3"
-          value="C2C-09: Replace this text with the gerund you put in the label."
+          value="Fishing"
           v-model="registration.gerund"
         />
       </label>
